@@ -1,0 +1,6 @@
+{
+	"name": "section-with-aside",
+	"dependencies": [
+			"section"
+	]
+}
