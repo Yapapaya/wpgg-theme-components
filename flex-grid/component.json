@@ -1,3 +1,8 @@
 {
-	"name": "flex-grid"
+	"name": "flex-grid",
+	"style-toc": {
+		"position": "before",
+		"relative-to": "Elements"
+		
+	}
 }
