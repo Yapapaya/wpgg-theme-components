@@ -1,7 +1,3 @@
 {
-	"name": "flex-grid",
-	"toc": {
-		"position": "before",
-		"relative": "Elements"	
-	}
+	"name": "flex-grid"
 }

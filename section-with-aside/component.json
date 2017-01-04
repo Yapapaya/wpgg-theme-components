@@ -1,8 +1,3 @@
 {
-	"name": "section-with-aside",
-	"toc": {
-		"position": "under",
-		"relative": "Posts and pages"
-
-	}
+	"name": "section-with-aside"
 }

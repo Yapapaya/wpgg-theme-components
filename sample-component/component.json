@@ -1,11 +1,6 @@
 {
 	"name": "sample-component",
 	"dependencies": [
-			"font-awesome", "aside", "etc"
-	],
-	"toc": {
-		"position": "before",
-		"relative-to": "elements"
-		
-	}
+			"font-awesome"
+	]
 }
