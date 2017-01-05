@@ -1,12 +1,16 @@
-section.component-section-with-sidebar{
+div.entry-content{
 
-	h3{
+	section{
 
+		aside{
+			float: right;
+			padding: 1rem;
+			margin: 1rem;
+			h3{
+				display:block;
+				font-size: 0.9em;
+			}
+		}
 	}
-	p{
-
-	}
-	ul{
-
-	}
+	
 }
